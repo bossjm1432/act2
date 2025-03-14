@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<music>
+    <song id="1">
+        <songTitle>7 rings</songTitle>
+        <artist>Ariana Grande</artist>
+        <albums>
+            <album>thank u, next</album>
+            <album>Positions</album>
+            <album>Sweetener</album>
+        </albums>
+        <debutYear>2019</debutYear>
+    </song>
+    <song id="2">
+        <songTitle>God's Plan</songTitle>
+        <artist>Drake</artist>
+        <albums>
+            <album>Scorpion</album>
+            <album>Views</album>
+            <album>Take Care</album>
+        </albums>
+        <debutYear>2018</debutYear>
+    </song>
+    <song id="3">
+        <songTitle>bad guy</songTitle>
+        <artist>Billie Eilish</artist>
+        <albums>
+            <album>WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?</album>
+            <album>Happier Than Ever</album>
+        </albums>
+        <debutYear>2019</debutYear>
+    </song>
+    <song id="4">
+        <songTitle>SICKO MODE</songTitle>
+        <artist>Travis Scott</artist>
+        <albums>
+            <album>ASTROWORLD</album>
+            <album>Birds in the Trap Sing McKnight</album>
+        </albums>
+        <debutYear>2018</debutYear>
+    </song>
+    <song id="5">
+        <songTitle>Work</songTitle>
+        <artist>Rihanna</artist>
+        <albums>
+            <album>ANTI</album>
+            <album>Loud</album>
+            <album>Unapologetic</album>
+        </albums>
+        <debutYear>2016</debutYear>
+    </song>
+</music>
